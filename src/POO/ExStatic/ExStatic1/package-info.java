@@ -1,4 +1,4 @@
-package POO.ExStatic;
+package POO.ExStatic.ExStatic1;
 
 /**
  * write a program to read a radius value, then show what the circumference and volume of a sphere would be
