@@ -8,7 +8,7 @@ public class AnexarTabelaLinear {
             //copia o valor da matriz para tempArray
             tempArray[i] = array[i];
         }
-        tempArray[array.length] = value;//Insera o valor para o último índice
+        tempArray[array.length] = value;//Insere o valor para o último índice
         return tempArray;
     }
 

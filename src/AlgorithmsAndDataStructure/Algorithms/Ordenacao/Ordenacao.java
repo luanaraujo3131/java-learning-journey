@@ -12,7 +12,7 @@ public class Ordenacao {
             System.out.print(arr[i]+ " ");
         }
         bubbleSort(arr);
-        //selectionSort
+        //selectionSort(arr);
 
         System.out.println("\nArray ordenado:");
         for (int i = 0; i < arr.length; i++){

@@ -5,79 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f5ccf45-20df-4ed1-878f-65870ab36815" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/BubbleSort1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/TabelaLinear/AnexarEmLocalEspeci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/TabelaLinear/AnexarTabelaLinear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/TabelaLinear/TabelaLinear.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/TabelaLinear/TabelaLinearExcluir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/DataStructure/Arrays/DeclarandoArrays1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/DataStructure/Arrays/DeclarandoArrays2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/DataStructure/Arrays/ImprimindoArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/DataStructure/Arrays/ImprimindoArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/DataStructure/Arrays/ImprimindoArray3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/DataStructure/Arrays/ImprimindoArray4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/DataStructure/Arrays/ImprimindoArray5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/DataStructure/Arrays/ex1Sala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/CelciusFahr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ClasseMath/ClassMath1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Condicional1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Condicional2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Condicional3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Fatorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Literal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Metodo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/RecebendoInformacaoViaConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Repeticao1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Repeticao2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/RepeticaoFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/RepeticaoJOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/TabelaLinha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/TresOpcoesJavaSwing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex1/Controle/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex1/Controle/Correntista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex1/Controle/RegistroConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex1/Utilidade/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex1/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex2/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex3/Application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex3/Entities/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex3/ProblemaSemPOO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex3/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex4/Application/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex4/Entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex4/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Exercicios/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Exercicios/ex1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Exercicios/ex2/App/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Exercicios/ex2/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Exercicios/ex2/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Exercicios/ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Exercicios/ex3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Exercicios/ex3/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tester/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tester/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/BinarySearch/BinarySearch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/AgendaOrdenada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/Performance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/Ordenacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/Ordenacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/TabelaLinear/AnexarTabelaLinear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/TabelaLinear/AnexarTabelaLinear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,31 +30,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2QHMYcjpGwawavBepkV912Pqyfl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/luan-araujo/Documentos/DeveresJava&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "C:/Users/07951579165/Documents/java-learning-journey",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
