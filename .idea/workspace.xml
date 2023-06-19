@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f5ccf45-20df-4ed1-878f-65870ab36815" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/BinarySearch/BinarySearch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/BinarySearch/BinarySearch1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/AgendaOrdenada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/AgendaOrdenada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/Ordenacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/Ordenacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/Performance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/Performance.java" afterDir="false" />
-    </list>
+    <list default="true" id="8f5ccf45-20df-4ed1-878f-65870ab36815" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +74,7 @@
       <workItem from="1687009834102" duration="338000" />
       <workItem from="1687010209191" duration="123000" />
       <workItem from="1687010367446" duration="1201000" />
-      <workItem from="1687079179606" duration="6367000" />
+      <workItem from="1687079179606" duration="6663000" />
     </task>
     <servers />
   </component>
