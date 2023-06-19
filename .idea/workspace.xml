@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f5ccf45-20df-4ed1-878f-65870ab36815" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/BinarySearch/BinarySearch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/AgendaOrdenada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/Performance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/SequentialSearch/BuscaSequencial2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/SequentialSearch/SequentialSearch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/MiniAgenda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/Ordenacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/Ordenacao/Ordenacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/TabelaLinear/AnexarTabelaLinear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/TabelaLinear/AnexarTabelaLinear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/BinarySearch/BinarySearch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/BinarySearch/BinarySearch1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/BuscaSequencial1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/BuscaSequencial2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/BinarySearch/BinarySearch2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
-    "last_opened_file_path": "C:/Users/07951579165/Documents/java-learning-journey",
+    "last_opened_file_path": "C:/Users/07951579165/java-learning-journey",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,6 +84,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

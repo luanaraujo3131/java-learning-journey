@@ -1,4 +1,4 @@
-package AlgorithmsAndDataStructure.Algorithms.BinarySearch;
+package AlgorithmsAndDataStructure.Algorithms.SortingAndSearching.BinarySearch;
 
 import java.util.Random;
 import java.util.Scanner;
