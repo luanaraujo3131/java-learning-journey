@@ -2,7 +2,7 @@ package AlgorithmsAndDataStructure.Algorithms.SortingAndSearching.SequentialSear
 
 import javax.swing.*;
 
-public class BuscaSequencial2 {
+public class SequentialSearch2 {
     public static void main(String[] args) {
         Contato[] agenda = new Contato[10];
         agenda[0] = new Contato("Batman", "0000-0000", "Brasil");
