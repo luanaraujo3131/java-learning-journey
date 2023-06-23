@@ -5,16 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f5ccf45-20df-4ed1-878f-65870ab36815" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canjica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Danca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Quentao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/CantoCoral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/MoquecaDePeixe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Oracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Vatapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ex5/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ex5/Restaurante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ex6/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Heranca/Natal/CeiaNatalina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Heranca/Natal/Refeicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Heranca/Relogio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/cursoJava/1Conceitos.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/cursoJava/2IntroducaoAJava.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/cursoJava/4EstruturaSequencial.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/cursoJava/5Estrutura-condicional.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/cursoJava/6Estruturas-repetitivas.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/cursoJava/7Outros-topicos-basicos.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/cursoJava/8OrienteacaoAObjetos1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/SequentialSearch/BuscaSequencial2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/SequentialSearch/SequentialSearch2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/SequentialSearch/SequentialSearch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/SequentialSearch/SequentialSearch1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +69,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Introduction.ExSala.POO" />
+      <recent name="Introduction.ExSala" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
