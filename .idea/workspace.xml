@@ -5,21 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f5ccf45-20df-4ed1-878f-65870ab36815" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canjica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Danca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Quentao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/CantoCoral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/MoquecaDePeixe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Oracao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Vatapa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex5/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex5/Restaurante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Ex6/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Heranca/Natal/CeiaNatalina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Heranca/Natal/Refeicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Heranca/Relogio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/FunctionsForStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Constructor/First/Application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Constructor/First/Entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Encapsulamento/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Encapsulamento/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Encapsulamento/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex1/Controle/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex1/Controle/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex1/Controle/Correntista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex1/Controle/Correntista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex1/Controle/RegistroConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex1/Controle/RegistroConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex1/Utilidade/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex1/Utilidade/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex1/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex1/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex2/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex2/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex3/Application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex3/Application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex3/Entities/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex3/Entities/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex3/ProblemaSemPOO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex3/ProblemaSemPOO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex3/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex3/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex4/Application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex4/Application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex4/Entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex4/Entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex4/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex4/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex5/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex5/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex5/Restaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex5/Restaurante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/Ex6/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Exemplos/Ex6/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/ExStatic/ExStatic1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Static/ExStatic1/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/ExStatic/ExStatic1/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Static/ExStatic1/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/ExStatic/ExStatic2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Static/ExStatic2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/ExStatic/ExStatic2/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Static/ExStatic2/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/ExStatic/ExStatic2/util/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Static/ExStatic2/util/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/ExStatic/ExStatic3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Static/ExStatic3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/ExStatic/ExStatic3/Util/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Static/ExStatic3/Util/CurrencyConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +88,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="POO" />
       <recent name="Introduction.ExSala.POO" />
       <recent name="Introduction.ExSala" />
     </key>
@@ -94,6 +112,10 @@
       <workItem from="1687218456661" duration="634000" />
       <workItem from="1687254281235" duration="631000" />
       <workItem from="1687479331155" duration="1913000" />
+      <workItem from="1687565988215" duration="640000" />
+      <workItem from="1687701726886" duration="7892000" />
+      <workItem from="1687825845021" duration="629000" />
+      <workItem from="1687857744089" duration="4477000" />
     </task>
     <servers />
   </component>
@@ -118,7 +140,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/POO/Ex1/Utilidade/Data.java</url>
+          <url>file://$PROJECT_DIR$/src/POO/Exemplos/Ex1/Utilidade/Data.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
