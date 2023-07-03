@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f5ccf45-20df-4ed1-878f-65870ab36815" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/ReadingTextFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/WritingBinaryFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/WritingOnCSVFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/WritingOnTextFiles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
