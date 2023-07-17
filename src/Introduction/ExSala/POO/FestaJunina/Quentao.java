@@ -1,4 +1,4 @@
-package POO.Heranca.FestaJunina;
+package Introduction.ExSala.POO.FestaJunina;
 
 class Quentao {
     

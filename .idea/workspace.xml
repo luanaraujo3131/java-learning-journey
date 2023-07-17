@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f5ccf45-20df-4ed1-878f-65870ab36815" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Files/ReadingTextFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Files/WritingBinaryFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Files/WritingOnCSVFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Files/WritingOnTextFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canjica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canjica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Danca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Quentao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Quentao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Restaurante/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Restaurante/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Restaurante/Restaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Restaurante/Restaurante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/CantoCoral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/MoquecaDePeixe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Oracao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Vatapa.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +36,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QHMYcjpGwawavBepkV912Pqyfl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

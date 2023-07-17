@@ -1,5 +1,5 @@
 
-package POO.Heranca.Natal;
+package Introduction.ExSala.POO.Natal;
 
 /*public class CeiaNatalina extends Refeicao {
     int salpicao;

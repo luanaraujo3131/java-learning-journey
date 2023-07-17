@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package POO.Heranca.Restaurante;
+package Introduction.ExSala.POO.Restaurante;
 
 import javax.swing.JOptionPane;
 import java.text.*;

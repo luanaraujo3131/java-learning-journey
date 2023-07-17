@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package POO.Heranca.Restaurante;
+package Introduction.ExSala.POO.Restaurante;
 
 import javax.swing.*;
 public class Restaurante {
     public static void main(String[] args) {
         Conta[] contas = new Conta[20];
         for (int i = 0; i < contas.length; i++) {
-            contas[i] = new Conta();
+            //Conta conta = Restaurante.conta();
         }
         int opcao;
         String[] opcoes = {"Efetuar pedido", "Fechar conta", "Fazer pagamento"};
@@ -29,4 +29,5 @@ public class Restaurante {
             }
         } while(opcao != JOptionPane.CLOSED_OPTION);
     }
+
 }

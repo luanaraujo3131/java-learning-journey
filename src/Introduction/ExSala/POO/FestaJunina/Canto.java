@@ -3,12 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package POO.Heranca.FestaJunina;
+package Introduction.ExSala.POO.FestaJunina;
 
-/**
- *
- * @author alexh
- */
+
 public class Canto {
     public void metodoParaTodos() {
     }
