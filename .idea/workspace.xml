@@ -5,30 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f5ccf45-20df-4ed1-878f-65870ab36815" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Natal/CeiaNatalina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Natal/Refeicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Restaurante/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Restaurante/Restaurante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Salario/SalarioSemanal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction/OperadorTernario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Heranca/heranca1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/LittleProject/Account/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/LittleProject/Account/ResgistroConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/LittleProject/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/ReadingTextFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/WritingBinaryFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/WritingOnCSVFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/WritingOnTextFiles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/BinarySearch/BinarySearch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsAndDataStructure/Algorithms/SortingAndSearching/BinarySearch/BinarySearch2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canjica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canjica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Danca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Danca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Quentao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Quentao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/CantoCoral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/CantoCoral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/MoquecaDePeixe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/MoquecaDePeixe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Oracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Oracao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Vatapa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Vatapa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POO/Heranca/Natal/CeiaNatalina.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POO/Heranca/Natal/Refeicao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/POO/Heranca/Relogio.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +31,13 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QHMYcjpGwawavBepkV912Pqyfl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
@@ -68,7 +46,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/luan-araujo/Documentos/DeveresJava&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/07951579165/java-learning-journey&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -83,8 +61,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="Introduction.ExSala.POO" />
       <recent name="POO" />
+      <recent name="Introduction.ExSala.POO" />
       <recent name="Introduction.ExSala" />
     </key>
   </component>
@@ -131,19 +109,6 @@
       <workItem from="1687701726886" duration="7892000" />
       <workItem from="1687825845021" duration="629000" />
       <workItem from="1687857744089" duration="4477000" />
-      <workItem from="1688206329907" duration="8447000" />
-      <workItem from="1688594791490" duration="814000" />
-      <workItem from="1688596600191" duration="3627000" />
-      <workItem from="1688602086571" duration="2238000" />
-      <workItem from="1688606302493" duration="710000" />
-      <workItem from="1688736618890" duration="1474000" />
-      <workItem from="1688813721495" duration="3000" />
-      <workItem from="1688849129159" duration="604000" />
-      <workItem from="1688939440216" duration="85000" />
-      <workItem from="1688942001073" duration="1848000" />
-      <workItem from="1689378133028" duration="360000" />
-      <workItem from="1689586135425" duration="46000" />
-      <workItem from="1689607183019" duration="410000" />
     </task>
     <servers />
   </component>
@@ -160,9 +125,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
