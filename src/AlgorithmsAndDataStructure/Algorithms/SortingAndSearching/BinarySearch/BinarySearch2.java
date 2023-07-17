@@ -1,4 +1,4 @@
-/**package AlgorithmsAndDataStructure.Algorithms.SortingAndSearching.BinarySearch;
+package AlgorithmsAndDataStructure.Algorithms.SortingAndSearching.BinarySearch;
 
 import java.util.Scanner;
 
@@ -18,8 +18,29 @@ public class BinarySearch2 {
         agenda[9] = new Contato("Beth", "9999-9999", "Grécia");
 
         System.out.println("Qual nome procurado?");
-        String nomeProcurado = sc.next();
-        System.out.println(contato);
+        String nomeProcurado = sc.nextLine();
+
+        Contato contato = busca(agenda, nomeProcurado, 0, agenda.length);
+        if(contato != null) {
+            System.out.println(contato);
+        } else {
+            System.out.println("Não foi encontrado contato com este nome.");
+        }
+
+        sc.close();
+    }
+    public static Contato busca(Contato[] array, String nomeProcurado, int inicio, int fim){
+        if((fim - inicio) <= 1){
+            return null;
+        }
+        int meio = (fim + inicio) / 2;
+        if(array[meio].name.compareToIgnoreCase(nomeProcurado) == 0){
+            return array[meio];
+        } else if(array[meio].name.compareToIgnoreCase(nomeProcurado) > 0) {
+            return busca(array, nomeProcurado, inicio, meio);
+        } else { // if(array[meio] < numProcurado) {
+            return busca(array, nomeProcurado, meio, fim);
+        }
     }
 }
 
@@ -37,4 +58,4 @@ class Contato{
     public String toString(){
         return "Name: " +name+ "\nPhone number: " +number+ "\nAddress: " +address;
     }
-}*/
+}

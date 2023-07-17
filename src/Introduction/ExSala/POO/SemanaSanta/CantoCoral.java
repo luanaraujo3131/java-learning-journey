@@ -1,13 +1,28 @@
-package Introduction.ExSala.POO.SemanaSanta;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package POO.Heranca.SemanaSanta;
 
-import Introduction.ExSala.POO.FestaJunina.Canto;
+import POO.Heranca.FestaJunina.Canto;
 
+/**
+ *
+ * @author alexh
+ */
 public class CantoCoral extends Canto {
-    void metodoQualquer(){
+    void metodoQualquer() {
         Canto obj = new Canto();
         obj.metodoParaTodos();
-        //obj.metodoParaOsFilhos();
+       // obj.metodoParaOsFilhos();
         //obj.metodoParaPoucos();
         //obj.metodoEgoista();
+        
+        metodoParaTodos();
+        metodoParaOsFilhos();
+       // metodoParaPoucos();
+        //metodoEgoista();
     }
+    
 }

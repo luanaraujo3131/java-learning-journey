@@ -1,19 +1,24 @@
-package Introduction.ExSala.POO.FestaJunina;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package POO.Heranca.FestaJunina;
 
+/**
+ *
+ * @author alexh
+ */
 public class Canto {
-    public void metodoParaTodos(){
-
+    public void metodoParaTodos() {
     }
-    protected void metodoParaOsFilhos(){
-
+    protected void metodoParaOsFilhos() {
     }
-    void metodoParaPoucos(){
-
+    void metodoParaPoucos() {
     }
-    private void metodoEgoista(){
-        //métodos privados so podem ser vistos e acessados pela sua classe
+    private void metodoEgoista() {
     }
-    void metodoQualquer(){
+    void metodoQualquer() {
         metodoParaTodos();
         metodoParaOsFilhos();
         metodoParaPoucos();

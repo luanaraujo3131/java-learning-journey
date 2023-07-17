@@ -1,4 +1,4 @@
-package Introduction.ExSala.POO.FestaJunina;
+package POO.Heranca.FestaJunina;
 
 public class Canjica {
 }

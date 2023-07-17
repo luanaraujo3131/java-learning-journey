@@ -1,4 +1,24 @@
-package Introduction.ExSala.POO.SemanaSanta;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package POO.Heranca.SemanaSanta;
 
-public class Oracao {
+
+import POO.Heranca.FestaJunina.Canto;
+
+/**
+ *
+ * @author alexh
+ */
+public class Oracao  {
+    void metodoQualquer() {
+        Canto obj = new Canto();
+        obj.metodoParaTodos();
+        //obj.metodoParaOsFilhos();
+        //obj.metodoParaPoucos();
+        //obj.metodoEgoista();
+    }
+    
 }
