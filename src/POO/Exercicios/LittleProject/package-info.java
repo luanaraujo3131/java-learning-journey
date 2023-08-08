@@ -1,4 +1,4 @@
-package POO.LittleProject;
+package POO.Exercicios.LittleProject;
 
 /**
  * Em um banco, para se cadastrar uma conta bancária, é preciso informar o número da conta, o nome do titular da

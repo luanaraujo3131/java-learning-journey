@@ -16,7 +16,12 @@ atualizado. Algumas considerações:
 - Métodos(funções);
 - Loops;
 - Tratamento de exceções;
-- Orientação a Objetos, classes, interfaces...
-- Estrutura De Dados com Java
-- Threads
+- Orientação a Objetos, classes, interfaces...;
+- Estrutura De Dados com Java;
+- Threads;
+- Collection Framework;
+- Generics;
+- Trabalhando com Arquivos;
+- Lambda Expression;
+- Functional Programming
 ---
