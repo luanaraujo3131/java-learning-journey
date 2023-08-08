@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f5ccf45-20df-4ed1-878f-65870ab36815" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canjica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canjica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Canto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Danca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Quentao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/FestaJunina/Quentao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Restaurante/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Restaurante/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Restaurante/Restaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/ExSala/POO/Restaurante/Restaurante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/CantoCoral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/MoquecaDePeixe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Oracao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/ExSala/POO/SemanaSanta/Vatapa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +18,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Kotlin Class" />
+        <option value="AnnotationType" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,6 +32,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2QHMYcjpGwawavBepkV912Pqyfl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,7 +54,8 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/07951579165/java-learning-journey&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/luan_araujo/Documentos/java-learning-journey&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -67,6 +69,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Introduction" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="POO" />
       <recent name="Introduction.ExSala.POO" />
@@ -116,6 +121,34 @@
       <workItem from="1687701726886" duration="7892000" />
       <workItem from="1687825845021" duration="629000" />
       <workItem from="1687857744089" duration="4477000" />
+      <workItem from="1689898927861" duration="378000" />
+      <workItem from="1689901357568" duration="6195000" />
+      <workItem from="1689937058411" duration="780000" />
+      <workItem from="1689984186150" duration="332000" />
+      <workItem from="1689984985270" duration="3332000" />
+      <workItem from="1690016422783" duration="3451000" />
+      <workItem from="1690042457407" duration="541000" />
+      <workItem from="1690043494507" duration="930000" />
+      <workItem from="1690071353894" duration="8555000" />
+      <workItem from="1690190832071" duration="9777000" />
+      <workItem from="1690246341358" duration="8501000" />
+      <workItem from="1690327727544" duration="13145000" />
+      <workItem from="1690411448126" duration="651000" />
+      <workItem from="1690412210876" duration="581000" />
+      <workItem from="1690416633719" duration="1091000" />
+      <workItem from="1690534397165" duration="3067000" />
+      <workItem from="1690560364265" duration="2435000" />
+      <workItem from="1690588120412" duration="2329000" />
+      <workItem from="1690617864809" duration="16600000" />
+      <workItem from="1690671964535" duration="7098000" />
+      <workItem from="1690739196149" duration="7304000" />
+      <workItem from="1690790593975" duration="6242000" />
+      <workItem from="1690882766058" duration="429000" />
+      <workItem from="1691312592336" duration="1049000" />
+      <workItem from="1691313735136" duration="403000" />
+      <workItem from="1691314202234" duration="159000" />
+      <workItem from="1691314872691" duration="226000" />
+      <workItem from="1691454246997" duration="430000" />
     </task>
     <servers />
   </component>
@@ -144,7 +177,15 @@
           <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
