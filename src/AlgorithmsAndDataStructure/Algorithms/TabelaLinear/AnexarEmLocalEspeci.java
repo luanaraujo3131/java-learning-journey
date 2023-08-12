@@ -1,6 +1,11 @@
 package AlgorithmsAndDataStructure.Algorithms.TabelaLinear;
 
+import org.jetbrains.annotations.Contract;
+import org.jetbrains.annotations.NotNull;
+
 public class AnexarEmLocalEspeci {
+    @NotNull
+    @Contract(pure = true)
     public static int[]insert(int[] array, int value, int insertIndex){
         int[]tempArray = new int[array.length + 1];
         for(int i = 0; i <= array.length; i++) {
