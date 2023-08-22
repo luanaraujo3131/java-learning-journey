@@ -1,4 +1,4 @@
-package Enumeration.Ex.entities;
+package Enumeration.Ex1.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

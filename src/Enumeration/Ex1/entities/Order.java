@@ -1,6 +1,6 @@
-package Enumeration.Ex.entities;
+package Enumeration.Ex1.entities;
 
-import Enumeration.Ex.entities.Enum.OrderStatus;
+import Enumeration.Ex1.entities.Enum.OrderStatus;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;

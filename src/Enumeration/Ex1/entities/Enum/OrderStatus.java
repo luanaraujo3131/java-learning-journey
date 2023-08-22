@@ -1,4 +1,4 @@
-package Enumeration.Ex.entities.Enum;
+package Enumeration.Ex1.entities.Enum;
 
 public enum OrderStatus {
     PENDING_PAYMENT,//int = 0

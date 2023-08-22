@@ -1,4 +1,4 @@
-package Enumeration.Ex.entities;
+package Enumeration.Ex1.entities;
 
 public class OrderItem {
     private Integer quantity;

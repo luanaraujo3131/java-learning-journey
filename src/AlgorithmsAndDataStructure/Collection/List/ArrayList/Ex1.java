@@ -70,7 +70,7 @@ public class Ex1 {
         }
         return null; //nothing was found
     }
-    public static boolean hasId(List<Employees> list, int id){
+    public static boolean hasId(@NotNull List<Employees> list, int id){
         Employees emp = list.stream().filter(x -> x.getId() == id).findFirst().orElse(null);
         return emp != null; //verify if the id exists.
     }

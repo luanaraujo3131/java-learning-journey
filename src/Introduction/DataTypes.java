@@ -9,13 +9,15 @@ public class DataTypes {
         float pontoFlutuanteFloat = 4.52F;//ponto flutuante de 32 bits. Precisamos do F de float
         double pontoFlutuanteDouble = 12.035654;//Ponto flutuante de 64 bits.
         boolean trueOrFalse = true;//recebe por padrão o false. 1 bit
-        char caractere = '!';//um caractere. 16 bits, representado por ''
+        char caractere = '!';//Em java, um caractere tem 16 bits, representado por ''. Dependendo da linguaguem,
+                            //tipo C, um char contem apenas 8 bits, ou seja, 1 byte
         String textoQualquer = "Hello, world!";
 
         System.out.println(textoQualquer);
+
         /*A diferença entre float e double é que como o double é 2x maior que o float (64 e 32), o
-        * double tem uma precisão muito maior que o float e suporta mais números após a virgular, ou seja,
-        * se for uma váriavel com muitos números após a vírgula ou que se precise de muita precisão nos
+        * double tem uma precisão muito maior que o float e suporta mais números após a virgula, ou seja,
+        * se for uma váriavel com muitos números após a vírgula ou que se precise de mais precisão nos
         * resultados, o double é a melhor opção, caso perder alguns números após a vírgula não seja um
         * problema, o float é a melhor opção, pois ele redu o uso de mémoria*/
 

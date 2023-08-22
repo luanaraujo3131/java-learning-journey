@@ -1,10 +1,10 @@
-package Enumeration.Ex.app;
+package Enumeration.Ex1.app;
 
-import Enumeration.Ex.entities.Client;
-import Enumeration.Ex.entities.Order;
-import Enumeration.Ex.entities.OrderItem;
-import Enumeration.Ex.entities.Enum.OrderStatus;
-import Enumeration.Ex.entities.Product;
+import Enumeration.Ex1.entities.Client;
+import Enumeration.Ex1.entities.Order;
+import Enumeration.Ex1.entities.OrderItem;
+import Enumeration.Ex1.entities.Enum.OrderStatus;
+import Enumeration.Ex1.entities.Product;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

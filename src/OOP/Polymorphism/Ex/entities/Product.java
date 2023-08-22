@@ -1,24 +1,33 @@
-package Enumeration.Ex.entities;
+package OOP.Polymorphism.Ex.entities;
 
 public class Product {
-    private String name;
-    private double price;
+    String name;
+    Double price;
 
     public Product(){}
-    public Product(String name, double price){
+
+    public Product(String name, Double price){
         this.name = name;
         this.price = price;
     }
+
     public String getName() {
         return name;
     }
+
     public void setName(String name) {
         this.name = name;
     }
-    public double getPrice() {
+
+    public Double getPrice() {
         return price;
     }
-    public void setPrice(double price) {
+
+    public void setPrice(Double price) {
         this.price = price;
+    }
+
+    public String priceTag() {
+        return "Name: " + name + ", price: " + price;
     }
 }

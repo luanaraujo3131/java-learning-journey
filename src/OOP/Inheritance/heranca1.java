@@ -1,4 +1,4 @@
-package OOP.Heranca;
+package OOP.Inheritance;
 
 public class heranca1 {
     public static void main(String[] args) {
