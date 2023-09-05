@@ -7,8 +7,9 @@ public class Performance {
         int[] array = new int[10000]; //quantidade de elementos
 
         long horarioInicial = System.currentTimeMillis();
-        Sorting.selectionSort(array); //algoritmo a ser testado
-        //Ordenacao.bubbleSort(array);
+        //Sorting.selectionSort(array); //algoritmo a ser testado
+        //Sorting.bubbleSort(array);
+        Sorting.insertSort(array);
 
         long horarioFinal = System.currentTimeMillis(); //tempo em milisegundos
         long tempoGasto = horarioFinal - horarioInicial;

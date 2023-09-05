@@ -50,7 +50,7 @@ public class Account {
     }
 
     public void deposit(Double amount){
-        amount += balance;
+        balance += amount;
     }
 
     public void withDraw(Double amount) throws ModelException {
@@ -59,17 +59,17 @@ public class Account {
         } else if(amount > withDrawLimite){
             throw new ModelException("withdrawal limit: " +getWithDrawLimite());
         } else {
-            amount -= balance;
+            balance -= amount;
         }
     }
 
     @Override
     public String toString() {
         return "Account{" +
-                "number=" + number +
-                ", holder='" + holder + '\'' +
-                ", balance=" + balance +
-                ", withDrawLimite=" + withDrawLimite +
+                "number: " + number +
+                ", holder: '" + getHolder() + '\'' +
+                ", balance: " + balance +
+                ", withDrawLimite: " + withDrawLimite +
                 '}';
     }
 }

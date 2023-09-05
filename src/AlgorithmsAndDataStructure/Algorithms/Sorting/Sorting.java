@@ -1,5 +1,7 @@
 package AlgorithmsAndDataStructure.Algorithms.Sorting;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.util.Random;
 
 public class Sorting {
@@ -11,8 +13,9 @@ public class Sorting {
             arr[i] = r.nextInt(100);
             System.out.print(arr[i]+ " ");
         }
-        bubbleSort(arr);
-        //selectionSort(arr);
+        //bubbleSort(arr);
+        // selectionSort(arr);
+        insertSort(arr);
 
         System.out.println("\nArray ordenado:");
         for (int i = 0; i < arr.length; i++){
@@ -52,6 +55,17 @@ public class Sorting {
             int swap = arr[i];
             arr[i] = arr[indiceDoMenor];
             arr[indiceDoMenor] = swap;
+        }
+    }
+    public static void insertSort(int[] arr){
+        for (int i = 1; i < arr.length; i++){
+            int swap = arr[i];
+            int j = i;
+            while (j > 0 && arr[j-1] > swap){
+                arr[j] = arr[j-1];
+                j--;
+            }
+            arr[j] = swap;
         }
     }
 }

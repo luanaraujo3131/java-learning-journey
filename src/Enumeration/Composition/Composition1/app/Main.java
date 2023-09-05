@@ -31,7 +31,6 @@ public class Main {
                                     //departament is associated with a worker
         System.out.print("How much contracts to this worker? ");
         int n = sc.nextInt();
-
         for (int i = 1; i <= n; i++){
             System.out.println("Enter the contract #"+i+" data:");
             System.out.print("Date(dd/mm/yyyy): ");

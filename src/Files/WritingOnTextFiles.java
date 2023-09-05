@@ -8,16 +8,19 @@ import java.io.IOException;
 
 public class WritingOnTextFiles {
     public static void main(String[] args) {
-        String text = JOptionPane.showInputDialog("Write Something: ");
-        byte[] conteudo = text.getBytes();
-        File arquivo = new File("file.txt"); //cria o arquivo com o que for escrito ao compilar.
+        String text = JOptionPane.showInputDialog("Digite algo: ")+"\n";
+        byte[] contet = text.getBytes();
+        File file = new File("file.txt");
         try {
-            FileOutputStream fos = new FileOutputStream(arquivo);
-            fos.write(conteudo);
+            //FileOutputStream fileOutputStream = new FileOutputStream(file); sobrescreve
+            FileOutputStream fileOutputStream = new FileOutputStream(file, true);
+            fileOutputStream.write(contet);
+            fileOutputStream.close();
+            JOptionPane.showMessageDialog(null, "Tudo deu certo! Veja seu arquivo em file.txt");
         } catch (FileNotFoundException e){
             System.out.println("Arquivo não encontrado");
         } catch (IOException e){
-            System.out.println("Ocorreu um erro");
+            System.out.println("Ocorreu um erro durante a escrita do arquivo.");
         }
     }
 }

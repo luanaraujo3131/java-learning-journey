@@ -1,4 +1,4 @@
-package AlgorithmsAndDataStructure.Algorithms.Sorting;
+package AlgorithmsAndDataStructure.Algorithms.Sorting.BubbleSort;
 
 import java.util.Scanner;
 

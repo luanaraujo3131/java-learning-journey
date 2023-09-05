@@ -3,7 +3,7 @@ package Introduction.ClasseMath;
 public class ClassMath1 {
     public static void main(String[] args) {
         //arredondar:
-        double num = 14.51;
+        double num = 14.21;
         double arredondado = Math.round(num);
         System.out.println(arredondado);
 
