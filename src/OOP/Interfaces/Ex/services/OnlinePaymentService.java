@@ -1,6 +1,7 @@
 package OOP.Interfaces.Ex.services;
 
 public interface OnlinePaymentService {
-    public Double paymentFee(Double amount);
-    public Double interest(Double amount, Integer months);
+    
+    public double paymentFee(Double amount);
+    public double interest(Double amount, Byte months);//juros
 }

@@ -1,7 +1,6 @@
 package Exceptions.HotelBookingSoluntion.Model.Entities;
 
 import Exceptions.HotelBookingSoluntion.Model.Exception.DomainException;
-import org.jetbrains.annotations.NotNull;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

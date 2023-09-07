@@ -1,13 +1,28 @@
 package OOP.Interfaces.Ex.services;
 
-public class ContractService implements OnlinePaymentService{
+import java.time.LocalDate;
 
-    @Override
-    public Double paymentFee(Double amount) {
-        throw new UnsupportedOperationException("Unimplemented method 'paymentFee'");
+import OOP.Interfaces.Ex.entities.Contract;
+import OOP.Interfaces.Ex.entities.Installment;
+
+public class ContractService{
+
+    private OnlinePaymentService onlinePaymentService;
+
+    public ContractService(OnlinePaymentService onlinePaymentService){
+        this.onlinePaymentService = onlinePaymentService;
     }
-    @Override
-    public Double interest(Double amount, Integer months){
-        throw new UnsupportedOperationException("test");
+    
+    public void processContract(Contract contract, Byte month){
+        double basicQuota = contract.getTotalValue() / month;
+
+        for(byte i = 1; i <= month; i++){
+            LocalDate dueDate = contract.getDate().plusMonths(i);
+            double interest = onlinePaymentService.interest(basicQuota, i);
+            double fee = onlinePaymentService.paymentFee(basicQuota + interest);
+            double quota = basicQuota + interest + fee;
+
+            contract.getInstallments().add(new Installment(dueDate, quota));
+        }
     }
 }

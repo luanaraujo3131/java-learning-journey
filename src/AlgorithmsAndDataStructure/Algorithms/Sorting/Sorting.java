@@ -1,7 +1,5 @@
 package AlgorithmsAndDataStructure.Algorithms.Sorting;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Random;
 
 public class Sorting {

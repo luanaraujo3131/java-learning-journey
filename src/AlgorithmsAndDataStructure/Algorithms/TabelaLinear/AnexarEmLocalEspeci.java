@@ -1,4 +1,4 @@
-package AlgorithmsAndDataStructure.Algorithms.TabelaLinear;
+/*package AlgorithmsAndDataStructure.Algorithms.TabelaLinear;
 
 import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;
@@ -29,4 +29,4 @@ public class AnexarEmLocalEspeci {
             System.out.println(array[i]);
         }
     }
-}
+}*/
