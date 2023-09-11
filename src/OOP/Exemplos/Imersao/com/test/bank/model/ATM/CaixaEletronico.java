@@ -21,6 +21,10 @@ public class CaixaEletronico {
         conta.sacar(documento.getValorTotal());
         documento.quitarPagamento();
     }
+
+    public verifyQrCode(DocumentoPagavel document, Conta conta{
+        throw new IllegalStateException("not verified");
+    }
     public void estornarPagamento(DocumentoEstornavel documento, Conta conta){
         if (!documento.estaPago()){//se documento não está pago!!!!!!!
             throw new IllegalStateException("Documento não está pago!");
