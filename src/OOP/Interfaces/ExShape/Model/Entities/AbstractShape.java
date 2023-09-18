@@ -2,7 +2,7 @@ package OOP.Interfaces.ExShape.Model.Entities;
 
 import OOP.Abstract.Geometry.Entities.Colors;
 
-abstract class AbstractShape implements Shape{
+public abstract class AbstractShape implements Shape{
     private Colors color;
 
     public AbstractShape(){}

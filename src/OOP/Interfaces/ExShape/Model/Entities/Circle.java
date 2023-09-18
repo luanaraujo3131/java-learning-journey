@@ -3,16 +3,14 @@ package OOP.Interfaces.ExShape.Model.Entities;
 import OOP.Abstract.Geometry.Entities.Colors;
 
 public class Circle extends AbstractShape{
-    private Float raio;
+    private float raio;
 
-    public Circle(){}
-
-    public Circle(Colors color, Float raio) {
+    public Circle(Colors color, float raio) {
         super(color);
         this.raio = raio;
     }
 
-    public void setRaio(Float raio) {
+    public void setRaio(float raio) {
         this.raio = raio;
     }
 

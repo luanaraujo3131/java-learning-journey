@@ -1,0 +1,1 @@
+Faça um programa para ler um arquivo contendo nomes de pessoas, armazenando-os em uma lista. Depois, ordene os dados nessa lista e mostre-os.
