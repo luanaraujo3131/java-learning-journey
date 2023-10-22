@@ -22,7 +22,7 @@ public class CaixaEletronico {
         documento.quitarPagamento();
     }
 
-    public verifyQrCode(DocumentoPagavel document, Conta conta{
+    public void verifyQrCode(DocumentoPagavel document, Conta conta){
         throw new IllegalStateException("not verified");
     }
     public void estornarPagamento(DocumentoEstornavel documento, Conta conta){
