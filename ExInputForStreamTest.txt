@@ -1,0 +1,5 @@
+TV, 1500
+Mouse, 250
+Keyboard, 500
+Macbook, 3500
+Hd, 100

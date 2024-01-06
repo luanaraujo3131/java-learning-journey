@@ -1,0 +1,8 @@
+Maria, maria@gmail.com, 2000
+Pedro, pedro@gmail.com, 6000
+Marcos, marcos@gmail.com, 1700
+Marcelo, marcelo@icloud.com, 3500
+Marina, marina@hotmail.com, 4000
+Mariana, mariana12@icloud.com, 4200
+Lucas, lucas@gmail.com, 7000
+Anna, anna@gmail.com, 1850

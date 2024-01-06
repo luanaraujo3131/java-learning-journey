@@ -1,6 +1,5 @@
 package Generics.Map;
 
-import java.lang.reflect.MalformedParameterizedTypeException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;

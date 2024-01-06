@@ -272,6 +272,7 @@ class Shark extends Peixes{
                 '}';
     }
 }
+
 enum AnimalColor {
     VERDE,
     PRETO,
