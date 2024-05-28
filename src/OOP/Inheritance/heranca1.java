@@ -4,7 +4,7 @@ public class heranca1 {
     public static void main(String[] args) {
         Circulo circ = new Circulo();
         circ.raio = 3;
-        System.out.println("Área do circulo: " +circ.calcularArea());
+        System.out.printf("Área do circulo: %2f%n", circ.calcularArea());
         System.out.println("Perímetro do circulo: " +circ.calcularPerimetro());
 
         System.out.println("------------------------------------------");
